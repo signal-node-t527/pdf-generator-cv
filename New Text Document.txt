@@ -1,0 +1,10 @@
+pdf structure
+site structure
+
+
+prompt + info reading
+
+pdf config generation
+site config generation
+
+send request with generated configuration
